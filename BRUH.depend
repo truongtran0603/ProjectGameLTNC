@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # depslib dependency file v1.0
 1741589264 source:e:\codeblock sdl\bruh\main.cpp
 	<iostream>
@@ -38,3 +39,65 @@
 	<fstream>
 	<iostream>
 
+=======
+# depslib dependency file v1.0
+1741589264 source:e:\codeblock sdl\bruh\main.cpp
+	<iostream>
+	<SDL.h>
+	"header.h"
+
+1741587471 e:\codeblock sdl\bruh\add.h
+
+1741587981 e:\codeblock sdl\bruh\header.h
+
+1743605331 source:e:\codeblock sdl\project game\main.cpp
+	"flappybird.h"
+
+1741587981 e:\codeblock sdl\project game\header.h
+
+1743606561 e:\codeblock sdl\project game\flappybird.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<vector>
+	<string>
+	<unordered_map>
+	"constants.h"
+	"structs.h"
+
+1743605385 e:\codeblock sdl\project game\constants.h
+
+1743605225 e:\codeblock sdl\project game\structs.h
+	<SDL.h>
+	<string>
+
+1743606722 source:e:\codeblock sdl\project game\flappybird.cpp
+	"flappybird.h"
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+
+1743605331 source:e:\codeblock sdl\game\main.cpp
+	"flappybird.h"
+
+1743606561 e:\codeblock sdl\game\flappybird.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<vector>
+	<string>
+	<unordered_map>
+	"constants.h"
+	"structs.h"
+
+1743605385 e:\codeblock sdl\game\constants.h
+
+1743605225 e:\codeblock sdl\game\structs.h
+	<SDL.h>
+	<string>
+
+>>>>>>> Stashed changes
