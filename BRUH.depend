@@ -8,17 +8,33 @@
 
 1741587981 e:\codeblock sdl\bruh\header.h
 
-1743348556 source:e:\codeblock sdl\project game\main.cpp
+1743605331 source:e:\codeblock sdl\project game\main.cpp
+	"flappybird.h"
+
+1741587981 e:\codeblock sdl\project game\header.h
+
+1743606561 e:\codeblock sdl\project game\flappybird.h
 	<SDL.h>
 	<SDL_ttf.h>
 	<SDL_image.h>
 	<SDL_mixer.h>
 	<vector>
+	<string>
+	<unordered_map>
+	"constants.h"
+	"structs.h"
+
+1743605385 e:\codeblock sdl\project game\constants.h
+
+1743605225 e:\codeblock sdl\project game\structs.h
+	<SDL.h>
+	<string>
+
+1743606722 source:e:\codeblock sdl\project game\flappybird.cpp
+	"flappybird.h"
+	<algorithm>
 	<cstdlib>
 	<ctime>
-	<string>
-	<algorithm>
-	<unordered_map>
-
-1741587981 e:\codeblock sdl\project game\header.h
+	<fstream>
+	<iostream>
 
